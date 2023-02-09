@@ -1,4 +1,4 @@
-# React App _ fitness app 
+# React _ fitness app 
 
 ### Fetch Exercise DB from Rapid API
 
