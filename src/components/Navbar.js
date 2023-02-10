@@ -17,8 +17,8 @@ const Navbar = () => {
         fontSize="24px"
         alignItems="flex-end"
         >
-        <Link to="/" style={{ textDecoration: 'none', color: ' #FF2625' }}>Home</Link>
-        <a href="#exercises" style={{ textDecoration: 'none', color: '#3A1212' }}>Exercises</a>
+        <Link to="/" style={{ textDecoration: 'none', color: ' #3A1212' }} className="nav_menu">Home</Link>
+        <a href="#exercises" style={{ textDecoration: 'none', color: '#3A1212' }} className="nav_menu">Exercises</a>
         </Stack>
     </Stack>
   )

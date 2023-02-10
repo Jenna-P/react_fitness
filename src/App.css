@@ -49,8 +49,8 @@ body {
   }
   
   .detail-image {
-    width: 729px;
-    height: 742px;
+    width: 600px;
+    height: 680px;
   }
   
   .hero-banner-img {
@@ -60,7 +60,10 @@ body {
     width: 700px;
     height: 900px;
     margin-top: -330px;
-  
+  }
+
+  .nav_menu:hover {
+    color: #FF2625 !important;
   }
   
   .exercise-card {
